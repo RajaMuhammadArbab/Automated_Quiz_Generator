@@ -20,5 +20,5 @@ A beginner-friendly Python quiz application that fetches trivia questions from t
 
 ### 1. Clone or Download the Project
 ```bash
-git clone https://github.com/RajaMuhammadArbab/python-quiz-app.git
+git clone https://github.com/RajaMuhammadArbab/Automated_Quiz_Generator.git
 cd python-quiz-app
